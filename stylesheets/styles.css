@@ -183,7 +183,7 @@ footer {
   bottom:50px;
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 980px) {
   
   div.wrapper {
     width:auto;
