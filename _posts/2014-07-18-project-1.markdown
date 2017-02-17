@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2016-08-01
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: August 2016
+client: GT-RNOC
+category: Web Development - Information Security
+description:  <a href="http://www.atlanticwave-sdx.net/">AtlanticWave-SDX</a> is a Software Defined Exchange controller, which controls network traffic between academic institutions and research facilities producing big data (60Gbps). I created the controller interface and helped implement authentication and authorization.
 
 ---
