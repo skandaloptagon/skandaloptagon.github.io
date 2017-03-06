@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2016-08-01
-img: cabin.png
+img: AtlanticWave.jpg
 alt: image-alt
 project-date: August 2016
 client: GT-RNOC
