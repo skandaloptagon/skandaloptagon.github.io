@@ -4,7 +4,7 @@ modal-id: 2
 date: 2016-08-01
 img: hermes.png
 alt: image-alt
-project-date: August 2016
+project-date: August 2015
 client: Hermes
 category: Full Stack Development
 description:  <a href="http://cic.gatech.edu/spring-2016/winners/hermes">Hermes</a> is a health app which monitors a users accelerometer data and heart rate using an Android smart watch and notifies a circle of trust when something goes wrong. For this award winning project, I implemented the backend using Python-Flask and helped integrate the backend with Android. Special credit goes to Ankita Lamba and Tito Nieves for developing the front end and functionality.
