@@ -7,6 +7,6 @@ alt: image-alt
 project-date: March 2015
 client: Astrolavos
 category: Full Stack Development
-description:  <a href="http://astrolavos.gatech.edu/">Astrolavos</a> is a Georgia Tech based group which focuses on Cyber Security research. Previously I worked for this lab and fulfilled various development projects, including build the Astrolavos web site, develop a log managing system which handles logs across various running projects, and an interface which tracks github usage and ranks members of the lab.
+description:  <a href="http://astrolavos.gatech.edu/">Astrolavos</a> is a Georgia Tech based group which focuses on Cyber Security research. When I worked for this lab, I fulfilled various development projects, including the build of the Astrolavos website, creation of a log managing system which handles logs across various running projects, and an interface which tracks GitHub usage and ranks members of the lab.
 
 ---
